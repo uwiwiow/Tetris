@@ -1,0 +1,3 @@
+/home/kishi/CLionProjects/Tetris/cmake-build-debug/CMakeFiles/Tetris.dir
+/home/kishi/CLionProjects/Tetris/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kishi/CLionProjects/Tetris/cmake-build-debug/CMakeFiles/rebuild_cache.dir
